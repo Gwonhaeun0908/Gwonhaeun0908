@@ -1,6 +1,10 @@
 ### Hi there 👋
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gwonhaeun&fontSize=90&fontColor=fff&section=header&animation=fadeIn&fontAlignY=45&desc=Frontend%20₍๐•ᴗ•๐₎)
-
+  
+</div>
+  
 <br>
 
 <div align="center">
