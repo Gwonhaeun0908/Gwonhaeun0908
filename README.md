@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradien&text=Gwonhaeun&fontSize=90&fontColor=fff&section=header&animation=fadeIn&fontAlignY=45&desc=₍๐•ᴗ•๐₎)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gwonhaeun&fontSize=90&fontColor=fff&section=header&animation=fadeIn&fontAlignY=45&desc=Frontend%20₍๐•ᴗ•๐₎)
 
 <br>
 
