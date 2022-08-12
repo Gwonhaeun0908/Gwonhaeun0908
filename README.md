@@ -49,4 +49,8 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=egradien&height=130)
+<div align="center">
+  
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=130)
+  
+</div>
