@@ -34,8 +34,8 @@
 <a href="https://www.notion.so/1f06734aecc34b21b9b9902fdc83056a"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/1f06734aecc34b21b9b9902fdc83056a"/></a>&nbsp
 <a href="https://github.com/Gwonhaeun0908"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Gwonhaeun0908"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/VisualStdio-5C2D91?style=flat-square/badge&logo=Visual-Studio&logoColor=white"></a>&nbsp
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square/badge&logo=Visual Studio Code&logoColor=white"></a>&nbsp
+<img src="https://img.shields.io/badge/VisualStdio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"></a>&nbsp
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>&nbsp
 
 <br><br>
 
